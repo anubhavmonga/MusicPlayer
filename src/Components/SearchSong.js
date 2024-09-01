@@ -56,7 +56,7 @@ function SearchSong({
           type="text"
           placeholder={
             width > 800
-              ? `Search Song, Artist                                                            🔍`
+              ? `Search Song, Artist                                                            `
               : "Search Song, Artist"
           }
           onChange={handleChange}
